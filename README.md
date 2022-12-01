@@ -5,4 +5,5 @@
 
 Программа курса следующая:
 
-![image](https://user-images.githubusercontent.com/94602743/205161840-c5aa74b7-c666-4dec-ae31-0e3d48af6b58.png)
+![image](https://user-images.githubusercontent.com/94602743/205162286-f8c10355-5498-4114-86b7-0ef14dcba0f2.png=100x100)
+
