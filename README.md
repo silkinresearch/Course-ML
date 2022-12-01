@@ -5,4 +5,8 @@
 
 Программа курса следующая:
 
-<img src="https://user-images.githubusercontent.com/94602743/205162662-daed2e3a-991f-4a8e-83a1-6719becafab7.png" width="500" />
+<img src="https://user-images.githubusercontent.com/94602743/205162932-a796c5bf-3b5a-41f6-adb4-0761dd76851e.png" width="600" />
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94602743/205162932-a796c5bf-3b5a-41f6-adb4-0761dd76851e.png" width="600" alt="Sublime's custom image"/>
+</p>
