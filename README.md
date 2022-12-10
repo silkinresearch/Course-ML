@@ -7,8 +7,9 @@
 
 Программа:
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94602743/206872756-497acf4d-710c-4e27-8703-22b46d740961.png" width="600" alt="Sublime's custom image"/>
+  <img src="https://user-images.githubusercontent.com/94602743/206873285-447a8e57-af6b-4bcc-8cd2-4ea5068fcee8.png" width="600" alt="Sublime's custom image"/>
 </p>
 
 **Детальное описание программы:**
